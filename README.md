@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahammad Ali</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **React js, Firebase, MongoDB**
+👋 Hello, I'm Mahammad Ali, a dedicated individual based in the pristine city of Rajshahi, Bangladesh. I hold a Master's degree in Business Studies, and my passion lies in the dynamic world of web development.
 
-- 💬 Ask me about **React, Tailwind, Firebase, MongoDB**
+💻 Armed with expertise in HTML, CSS, Bootstrap, Tailwind CSS, DaisyUI, JavaScript, React.js, Firebase, and MongoDB, I have successfully crafted several projects that showcase my proficiency. Beyond coding, I possess a keen eye for design and proficiency in Photoshop.
+
+🚀 My vision is set on evolving into a Full Stack Web Developer. I am eager to contribute my skills and creativity to a forward-thinking company as a Front End or Full Stack Web Developer, either on a part-time or full-time basis.
+
+🌐 Explore my portfolio, witness my dedication to clean and efficient code, and join me on this exciting journey of continuous learning and innovation.
 
 - 📫 How to reach me **ali.rc.raj@gmail.com**
 
