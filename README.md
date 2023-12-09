@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **ali.rc.raj@gmail.com**
 
-- Tools I used to build website
-"As a web developer, I thrive on the synergy of HTML, CSS, Bootstrap, Tailwind CSS, DaisyUI, JavaScript, React.js, Firebase, MongoDB, and Vercel. Leveraging Firebase for authentication and hosting, MongoDB for scalable databases, and Vercel for seamless deployments, I craft efficient and dynamic web solutions. Each tool in my toolkit contributes to a smooth, functional, and user-focused web development experience."
+### Tools I used to build website:
+As a web developer, I thrive on the synergy of HTML, CSS, Bootstrap, Tailwind CSS, DaisyUI, JavaScript, React.js, Firebase, MongoDB, and Vercel. Leveraging Firebase for authentication and hosting, MongoDB for scalable databases, and Vercel for seamless deployments, I craft efficient and dynamic web solutions. Each tool in my toolkit contributes to a smooth, functional, and user-focused web development experience.
 
 
 ## 🌐 Socials:
