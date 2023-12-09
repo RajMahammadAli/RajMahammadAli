@@ -7,8 +7,9 @@
 👋 Hello, I'm Mahammad Ali, a dedicated individual based in the pristine city of Rajshahi, Bangladesh. I hold a Master's degree in Business Studies, and my passion lies in the dynamic world of web development.<br><br>💻 Armed with expertise in HTML, CSS, Bootstrap, Tailwind CSS, DaisyUI, JavaScript, React.js, Firebase, and MongoDB, I have successfully crafted several projects that showcase my proficiency. Beyond coding, I possess a keen eye for design and proficiency in Photoshop.<br><br>🚀 My vision is set on evolving into a Full Stack Web Developer. I am eager to contribute my skills and creativity to a forward-thinking company as a Front End or Full Stack Web Developer, either on a part-time or full-time basis.<br><br>🌐 Explore my portfolio, witness my dedication to clean and efficient code, and join me on this exciting journey of continuous learning and innovation.
 
 
-- 📫 How to reach me **ali.rc.raj@gmail.com**
-- ## 🌐 Socials:
+
+## 📫 How to reach me **ali.rc.raj@gmail.com**
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahammad.ali.5030) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahammad-ali-025b64111/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Mahammad91ali) 
 
 
