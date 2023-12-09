@@ -41,6 +41,31 @@ Auto Trade is a dynamic web application built using React.js, Tailwind CSS, Dais
 Explore Auto Trade: [Auto Trade Live](https://brand-car.firebaseapp.com)
 
 
+## 🎓 Study Mate Connect
+
+Study Mate Connect is a feature-rich web application developed using React.js, Tailwind CSS, DaisyUI, Firebase, MongoDB, and hosted on Vercel. The platform enables users to engage in assignments hosted by their peers, read educational blogs, and manage assignments by posting, editing, and grading submissions.
+
+### Key Features
+- Assignment Participation
+- Blog Reading
+- Assignment Management (Post, Edit, Delete)
+- Peer Grading System
+
+### Technologies Used
+- React.js
+- Tailwind CSS
+- DaisyUI
+- Firebase
+- MongoDB
+- Vercel
+
+### github repository link
+- client side: https://github.com/RajMahammadAli/study-mate-connect
+- server side: https://github.com/RajMahammadAli/study-mate-connect-server-side
+
+### Live Demo
+Explore Study Mate Connect: [Study Mate Connect Live](https://study-mate-connect.firebaseapp.com)
+
 
 
 ### ✍️ My Favourite Dev Quote
