@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **ali.rc.raj@gmail.com**
 
+- Tools I used to build website
+"As a web developer, I thrive on the synergy of HTML, CSS, Bootstrap, Tailwind CSS, DaisyUI, JavaScript, React.js, Firebase, MongoDB, and Vercel. Leveraging Firebase for authentication and hosting, MongoDB for scalable databases, and Vercel for seamless deployments, I craft efficient and dynamic web solutions. Each tool in my toolkit contributes to a smooth, functional, and user-focused web development experience."
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahammad.ali.5030) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahammad-ali-025b64111/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Mahammad91ali) 
