@@ -21,21 +21,6 @@ As a web developer, I thrive on the synergy of HTML, CSS, Bootstrap, Tailwind CS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RajMahammadAli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajMahammadAli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=RajMahammadAli&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajMahammadAli&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajMahammadAli&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
-
 ## Recent Projects: 
 
 ### 🚗 Auto Trade
