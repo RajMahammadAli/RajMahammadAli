@@ -24,12 +24,6 @@ As a web developer, I thrive on the synergy of HTML, CSS, Bootstrap, Tailwind CS
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajMahammadAli&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajMahammadAli&theme=dark&utcOffset=8)
 
-![](https://github-readme-stats.vercel.app/api?username=RajMahammadAli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RajMahammadAli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajMahammadAli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
 ## Recent Projects: 
 
 ### 🚗 Auto Trade
