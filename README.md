@@ -18,11 +18,11 @@ As a web developer, I thrive on the synergy of HTML, CSS, Bootstrap, Tailwind CS
 
 # 📊 GitHub Stats:
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajMahammadAli&theme=dark&width=1000)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajMahammadAli&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajMahammadAli&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajMahammadAli&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajMahammadAli&theme=default&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajMahammadAli&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajMahammadAli&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajMahammadAli&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajMahammadAli&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajMahammadAli&theme=dark&utcOffset=8)
 
 ![](https://github-readme-stats.vercel.app/api?username=RajMahammadAli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RajMahammadAli&theme=dark&hide_border=false)<br/>
