@@ -20,6 +20,25 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RajMahammadAli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajMahammadAli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Recent Projects: 
+
+#Auto Trade
+
+Auto Trade is a dynamic web application built using React.js, Tailwind CSS, DaisyUI, Firebase, MongoDB, and hosted on Vercel. The platform allows users to explore and purchase various brand cars such as Toyota, BMW, and more. Additionally, users can read insightful blogs, calculate car loans, register, and log in using either email/password or Google credentials. The website also features a shopping cart functionality, enabling users to add their desired products.
+
+### Technologies Used
+- React.js
+- Tailwind CSS
+- DaisyUI
+- Firebase
+- MongoDB
+- Vercel
+
+### Live Demo
+Explore Auto Trade: [Auto Trade Live](https://brand-car.firebaseapp.com)
+
+
+
 
 ### ✍️ My Favourite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
