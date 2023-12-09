@@ -23,9 +23,10 @@ As a web developer, I thrive on the synergy of HTML, CSS, Bootstrap, Tailwind CS
 
 # 📊 GitHub Stats
 
-<p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajMahammadAli&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<p align="center">
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=RajMahammadAli&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajMahammadAli&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
