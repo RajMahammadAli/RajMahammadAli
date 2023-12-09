@@ -111,5 +111,5 @@ Explore Donation Campaign: [Donation Campaign Live](https://65142e7f8d9e3b201e58
 
 
 <p align="center">
-  <img width="800" src="https://github-readme-stats.vercel.app/api?username=RajMahammadAli&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="900" src="https://github-readme-stats.vercel.app/api?username=RajMahammadAli&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
